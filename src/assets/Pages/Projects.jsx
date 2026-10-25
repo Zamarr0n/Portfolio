@@ -56,10 +56,6 @@ export default function Projects() {
 
         </div>
 
-
-
-
-
         <h2 className="mx-4 my-8 text-2xl font-bold text-cyan-300 sm:mx-6 sm:text-3xl lg:mx-8 ">
           Technologies I'm Proficient with: 
         </h2>

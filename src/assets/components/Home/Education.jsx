@@ -1,5 +1,5 @@
 import EducationCards from "../EducationCards";
-import BYU_Logo from "../../images/BYU_Logo.png";
+import BYU_Logo from "../../images/BYU_logo.png";
 import Harvard_Logo from "../../images/Harvard-Emblem.png";
 import Boot_dev from "../../images/bot_logo.png";
 import React from 'react'

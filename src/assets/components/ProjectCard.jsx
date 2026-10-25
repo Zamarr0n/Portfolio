@@ -89,18 +89,7 @@ export default function ProjectCard({title, description, projects, course, image
                     <li key={index}>{project}</li>
                 ))}
             </ul>
-
-            <div className="mt-5 flex gap-3">
-
-              <a
-                href="https://github.com/Zamarr0n?tab=overview&from=2026-05-01&to=2026-05-28"
-                className="rounded-lg border border-cyan-500/40 px-4 py-2 text-cyan-300 hover:bg-cyan-500/10"
-              >
-                GitHub
-              </a>
-
-            </div>
-
+            
           </div>
         </div>
 
